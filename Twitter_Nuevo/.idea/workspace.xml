@@ -14,11 +14,6 @@
       <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/MyUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/MyUI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/MyUI$MyUIServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/MyUI$MyUIServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/MyUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/MyUI.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../pom.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../src/main/java/ufv/dis2022/final/MyUI.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../src/main/java/ufv/dis2022/final/Tweet" beforeDir="false" />
@@ -64,7 +59,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Daniel Ojeda/Desktop/3ºINFOR-CIBER/20-21/1º Cuatri/DIS(6)/ejemplo-mathias-master/ejemplo-mathias-master/pom.xml"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
